@@ -12,8 +12,6 @@ public class Main {
         a = 2008;
         b = 1999;
         System.out.printf(a+" - "+b+" = "+(a-b));
-        
-        System.out.printf("");
 	}
 }
 
