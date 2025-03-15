@@ -46,7 +46,7 @@ public class Main {
         System.out.println();
         System.out.println("[JAVA]");
         System.out.println(b1+" "+b2);
-		
+        System.out.println("[JAVA]");
 	}
 }
 
