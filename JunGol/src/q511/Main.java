@@ -13,7 +13,7 @@ public class Main {
         b = 1999;
         System.out.printf(a+" - "+b+" = "+(a-b));
         
-        
+        System.out.printf("");
 	}
 }
 
