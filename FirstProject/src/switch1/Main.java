@@ -1,7 +1,7 @@
 package switch1;
 
 public class Main {
-	public Main() {
+	public static void main(String[] args) {
 		// TODO Auto-generated constructor stub
 		int time = (int)(Math.random()*4)+8;
 		
